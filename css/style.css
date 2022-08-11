@@ -1,0 +1,59 @@
+/* .btn{
+    background-color: aqua;
+}
+
+.btn:hover{
+    background-color: blue;
+} */
+
+
+/* .main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+
+.box1, .box2, .box3{
+    width: 250px;
+    height: 250px;
+}
+
+.box1{
+    background-color: crimson;
+}
+.box2{
+    background-color: rgb(7, 4, 4);
+}
+.box3{
+    background-color: rgb(255, 130, 155);
+} */
+
+
+.container{
+    background-color: crimson;
+    height: 100vh;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.container-fluid{
+    background-color: crimson;
+    height: 100vh;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.box1{
+    background-color: rgb(15, 56, 15);
+}
+
+.box2{
+    background-color: rgb(77, 0, 139);
+}
+
+
+
+
